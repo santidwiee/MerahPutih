@@ -1,3 +1,6 @@
+# Identitas Developer
+Nama : Santi Dwi Agustin
+
 # Definisi Web MerahPutih
 
 Pada web ini akan menampilkan data identitas seseorang berupa nama, foto, tanggal lahir, dan lainnya sesuai ketentuan pihak Merah Putih sendiri.
